@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=1]
+
+[ext_resource path="res://Sprites/BasicView(1).jpg" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Background" type="Sprite" parent="."]
+
+transform/pos = Vector2( 513.025, 299.513 )
+transform/scale = Vector2( 1.06077, 0.827086 )
+texture = ExtResource( 1 )
+
+
